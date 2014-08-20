@@ -1,4 +1,5 @@
 set runtimepath+=~/.vim_runtime
+set runtimepath^=~/.vim/bundle/ctrlp.vim
 set tabstop=2
 
 source ~/.vim_runtime/vimrcs/basic.vim

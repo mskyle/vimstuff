@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/home/khutchinson/work/trunk'
+let g:netrw_dirhist_2='/home/khutchinson/work/trunk/app'
+let g:netrw_dirhist_3='/home/khutchinson/work/trunk/app/models'
+let g:netrw_dirhist_4='/home/khutchinson/work/trunk'
+let g:netrw_dirhist_5='/home/khutchinson/work/trunk/app'
+let g:netrw_dirhist_6='/home/khutchinson/work/trunk/app/models'
